@@ -1,2 +1,1 @@
-# lab_8
-Merge Sort Algorithm Example
+# lab_assignment_8
